@@ -21,6 +21,14 @@
   ],
   "author": "Jahid Hasan <jahidsite0@gmail.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jahidhasanme/jahid-portfolio-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jahidhasanme/jahid-portfolio-cli/issues"
+  },
+  "homepage": "https://github.com/jahidhasanme/jahid-portfolio-cli#readme",
   "devDependencies": {
     "nodemon": "^3.1.10"
   },

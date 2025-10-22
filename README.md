@@ -39,8 +39,8 @@ If you'd like to modify or contribute to this project, follow these steps:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/jahidhasanme/jahid-cli.git
-   cd jahid-cli
+   git clone https://github.com/jahidhasanme/jahid-portfolio-cli.git
+   cd jahid-portfolio-cli
    ```
 
 2. **Install dependencies**
