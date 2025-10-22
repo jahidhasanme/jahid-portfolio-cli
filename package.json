@@ -1,0 +1,32 @@
+{
+  "name": "jahid",
+  "version": "1.0.0",
+  "description": "🎉 CLI portfolio for Jahid Hasan",
+  "main": "portfolio.js",
+  "bin": {
+    "jahid": "./portfolio.js"
+  },
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon portfolio.js",
+    "start": "node portfolio.js"
+  },
+  "keywords": [
+    "CLI",
+    "portfolio",
+    "developer",
+    "jahid",
+    "jahidhasan",
+    "terminal"
+  ],
+  "author": "Jahid Hasan <jahidsite0@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "dependencies": {
+    "boxen": "^8.0.1",
+    "chalk": "^5.6.2",
+    "gradient-string": "^3.0.0"
+  }
+}
