@@ -15,21 +15,35 @@ This terminal-based portfolio provides an elegant and colorful way to explore Ja
 
 ---
 
-## 📦 Installation
+## Run Without Global Install
 
-Install the CLI globally using **npm**:
+You can also run the CLI directly using one of the following:
 
-```bash
-npm install -g jahid
-```
-
-Then run it from anywhere in your terminal:
+### **npx**
 
 ```bash
-jahid
+npx ababil
 ```
 
-Sit back and enjoy the colorful interactive experience! 🚀
+### **yarn dlx**
+
+```bash
+yarn exec ababil
+```
+
+### **pnpm dlx**
+
+```bash
+pnpm dlx ababil
+```
+
+### **bunx**
+
+```bash
+bunx ababil
+```
+
+Sit back and enjoy the colorful interactive experience!
 
 ---
 
