@@ -18,8 +18,10 @@ ${chalk.bold("💼 Profession:")}        Software Developer
 
 ${chalk.bold("📍 Location:")}          Natore, Rajshahi, Bangladesh
 ${chalk.bold("📱 WhatsApp:")}          ${chalk.cyan("+88 01335560866")}
+${chalk.bold("📧 Email:")}             ${chalk.cyan("jahidsite0@gmail.com")}
 ${chalk.bold("🌐 Website:")}           ${chalk.blue.underline("https://jahidhasan.me")}
 ${chalk.bold("🐙 GitHub:")}            ${chalk.blue.underline("https://github.com/jahidhasanme")}
+${chalk.bold("🐙 GitLab:")}            ${chalk.blue.underline("https://gitlab.com/jahidhasanme")}
 ${chalk.bold("📘 Facebook:")}          ${chalk.blue.underline("https://facebook.com/jahidhasan4me")}
 ${chalk.bold("🐦 X (Twitter):")}       ${chalk.blue.underline("https://x.com/jahidhasanme")}
 ${chalk.bold("💬 Discord:")}           ${chalk.blue.underline("https://discord.gg/jahidhasanme")}
@@ -54,14 +56,15 @@ console.log(company);
 const skills = boxen(
     `${chalk.bold("🚀 Skills Overview")}
 
-${chalk.cyan("🖥 Frontend:")} React, Tailwind, Next.js, Svelte, Astro,
+${chalk.cyan("💻 Frontend:")} React, Tailwind, Redux, Next.js, Svelte, Astro,
             Angular, Vue.js, Nuxt
 
-${chalk.green("⚙ Backend:")} Node.js, Express, Django, Flask,
-           FastAPI, REST APIs, WebSocket, GraphQL
+${chalk.green("🚀 Backend:")} Node.js, Express, Fastify, Nest.js
+            REST APIs, WebSockets, GraphQL, gRPC, tRPC, Prism
+            Django, Flask, FastAPI, Tornado, Celery
 
-${chalk.yellowBright("🤖 AI / ML:")} TensorFlow, PyTorch, Scikit-learn,
-            Deep Learning (NLP, CV), AWS AI
+${chalk.yellowBright("🤖 AI / ML:")} Matplotlib, Scikit-learn, TensorFlow, PyTorch,
+            Open CV, Deep Learning (NLP, CV), AWS AI
 
 ${chalk.yellow("🧠 AI Integration:")} LangChain, Agno, Cruel, VercelAI,
                    OpenAI SDK
@@ -78,16 +81,16 @@ ${chalk.blueBright("🧠 Vector DB:")} Pinecone, ChromaDB, Weaviate, Milvus
 
 ${chalk.blue("📡 Messaging:")} RabbitMQ, Kafka
 
-${chalk.red("☁ DevOps:")} Docker, Kubernetes, Nginx, CI/CD, 
-          GitHub Actions, AWS, Vercel
+${chalk.red("💎 DevOps:")} Docker, Kubernetes, Nginx, CI/CD, 
+           GitHub Actions, AWS, Vercel
 
-${chalk.green("🏗  Architecture:")} Microservices, Event-Driven, 
+${chalk.green("🔷 Architecture:")} Microservices, Event-Driven, 
                  Monolith, SOA, Scalable Cloud
 
 ${chalk.cyanBright("💬 Languages:")} JavaScript, Python, Go, Rust, 
               Java, C++, C
 
-${chalk.cyan("🛠  Tools:")} Git, VS Code, Postman, Figma, 
+${chalk.cyan("🔨 Tools:")} Git/GitLab, VS Code, Postman, Figma, 
           Notion, Slack`,
     {
         padding: 1,
