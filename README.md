@@ -22,25 +22,25 @@ You can also run the CLI directly using one of the following:
 ### **npx**
 
 ```bash
-npx ababil
+npx jahid
 ```
 
 ### **yarn dlx**
 
 ```bash
-yarn exec ababil
+yarn exec jahid
 ```
 
 ### **pnpm dlx**
 
 ```bash
-pnpm dlx ababil
+pnpm dlx jahid
 ```
 
 ### **bunx**
 
 ```bash
-bunx ababil
+bunx jahid
 ```
 
 Sit back and enjoy the colorful interactive experience!
